@@ -3,5 +3,5 @@ Set of codes for neoadjuvant immunotherapy response prediction in triple negativ
 
 ### General pipeline:
 
-![Proces_description](https://github.com/user-attachments/assets/10c94ab5-8285-4ed5-8b69-10d085b7f146)
 
+![Process_description](https://github.com/user-attachments/assets/53100b72-4eaa-4648-ab00-4ca197ec3d64)
